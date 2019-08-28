@@ -35,7 +35,7 @@
 1. https://www.bigocheatsheet.com/
 2. https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/tutorial/
 
-<h2>Tips<h2>
+<h2>Tips</h2>
 
 1. If you are finding a set of problems too easy, solve a level harder, move out of your comfort zone. <br>
 2. GeeksforGeeks is a great place for topic wise concepts/problems. <br>
