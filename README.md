@@ -38,7 +38,7 @@
 <h2>Tips</h2>
 
 1. If you are finding a set of problems too easy, solve a level harder, move out of your comfort zone. <br>
-2. GeeksforGeeks is a great place for topic wise concepts/problems. <br>
+2. GeeksforGeeks is a great place for topic wise concepts/problems. Head over to <a href = "https://github.com/kunalG98/Placement-Prep-Guide" >this repo</a> for better understanding of this platform. <br>
 3. Solve Quantitative Aptitude/Logical Reasoning/Logical Deduction for an edge. <br>
 
 <h2>Programs</h2> 
