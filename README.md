@@ -1,5 +1,7 @@
 # Placement-Prep
 
+:hushed: https://www.scaler.com/
+<br>
 <h1>Study</h1>
 
 1. <b>C Programming language:</b> https://www.geeksforgeeks.org/c-programming-language/ <br>
@@ -11,6 +13,7 @@
 4. <b>SQL:</b> https://www.w3schools.com/sql/ <br>
 
 <h1>Practice</h1>
+
 
 1. Coding
     
