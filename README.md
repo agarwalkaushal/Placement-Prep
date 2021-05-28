@@ -1,7 +1,7 @@
 # Placement-Prep
 
-:hushed: https://www.scaler.com/
-<br>
+Try this 👉 https://www.scaler.com/event/know-where-you-stand-free-self-assessment-test
+
 <h1>Study</h1>
 
 1. <b>C Programming language:</b> https://www.geeksforgeeks.org/c-programming-language/ <br>
@@ -18,10 +18,9 @@
 1. Coding
     
     i. https://leetcode.com/problemset/all/ <br>
-	ii. https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/ <br>
-	iii. https://www.spoj.com/problems/classical/ <br>
-	iv. https://www.hackerearth.com/practice/codemonk/ <br>
-	v. https://www.hackerrank.com/interview/interview-preparation-kit  <br>
+    ii. https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/ <br>
+    iii. https://www.hackerearth.com/practice/codemonk/ <br>
+    iv. https://www.hackerrank.com/interview/interview-preparation-kit  <br>
 
 
 2. SQL
@@ -60,5 +59,3 @@
 10. https://www.geeksforgeeks.org/next-greater-element/ <br>
 
 <h3>ALL THE BEST!!!</h3>
-
-<h6><i>Stay tuned for updates.</i></h6>
